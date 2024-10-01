@@ -1,9 +1,9 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-§   Obrigado por usar a SabatinaAlfa!   §
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Obrigado por usar a SabatinaAlfa!   
+
 
 Esse programa sorteia 5 plantas dentre as
-cadastradas as quais você deve 'adivinhar'
-seus respectivos nomes científicos, nomes
-vulgares e família botânica. Ao final da
-execução o programa mostra sua pontuação.
+cadastradas as quais vocÃª deve 'adivinhar'
+seus respectivos nomes cientÃ­ficos, nomes
+vulgares e famÃ­lia botÃ¢nica. Ao final da
+execuÃ§Ã£o o programa mostra sua pontuaÃ§Ã£o.
