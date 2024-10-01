@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1401344503 source:d:\meus documentos\arquivosalfran\sabatinaalfa\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	"sabatina.h"
+	<windows.h>
+	<stdlib.h>
+
+1401341599 d:\meus documentos\arquivosalfran\sabatinaalfa\sabatina.h
+

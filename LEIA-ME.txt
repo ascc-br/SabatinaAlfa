@@ -1,0 +1,86 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+§   Obrigado por usar a SabatinaAlfa!   §
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Esse programa sorteia 5 plantas dentre as
+cadastradas as quais você deve 'adivinhar'
+seus respectivos nomes científicos, nomes
+vulgares e família botânica. Ao final da
+execução o programa mostra sua pontuação.
+É possivel cadastrar e deletar plantas no
+programa, para isso, leia as instruções a-
+baixo.
+
+->Só serão cadastradas plantas que possui-
+rem ao menos uma foto de folha. Elas devem
+estar na pasta "photos" e devem ter nome se-
+guindo o seguinte padrão: 
+
+"nome_cientifico_Lx.jpg" tam 640x480
+
+Onde x = ordem sequencial da foto começan-
+do por 0 (zero). Exemplo:
+
+"clitoria_fairchildiana_L0.jpg"
+
+--->DETALHE NO 'L' OBRIGATORIAMENTE MAIÚSCULO<---
+
+->Só serão contadas fotos que seguirem a
+ordem sequencial. As fotos após a ruptura
+da sequencia não serão lidas. Exemplo:
+
+"photos\zyzypus joazeiro_L0.jpg"
+"photos\zyzypus joazeiro_L1.jpg"
+"photos\zyzypus joazeiro_L2.jpg"
+"photos\zyzypus joazeiro_L4.jpg" <- Dessa em dian-
+"photos\zyzypus joazeiro_L5.jpg"     te não serão
+"photos\zyzypus joazeiro_L6.jpg"    contabilizadas
+
+->As plantas podem ser cadastradas direta-
+mente no aplicativo ou alterando o arquivo
+"arvoresCadastradas.alf" (caso exista).
+Na última opção deve-se tomar cuidado com
+sua formatação que segue o padrão:
+
+*Espaços, números, palavras com acento e o
+cedilha não são lidos. Para separar nomes
+cientificos utilize "_" (underline) sendo
+permitido o uso de hífens no nome vulgar.
+
+*Você irá reparar que há espaços para 4 si
+-nonimias de nomes de Família, mas basta
+uma para a planta ser cadastra com suces-
+so, se as demais não forem preenchidas co-
+loque um hífen "-".
+
+*Os títulos dos itens devem estar em letra
+minúscula.
+
+Exemplos:
+
+nc: Caesalpinia_echinata
+nv: Pau-Brasil
+f1: Fabacea_caesalpinioideae
+f2: Caesalpiniaceae
+f3: -
+f4: -
+
+nc: Guarea_guidonea
+nv: Jito
+f1: Meliaceae
+f2: -
+f3: -
+f4: -
+
+Não apague o aviso no início, observe sem-
+pre o padrão do arquivo gerado automatica-
+mente e prefira sempre cadastrar pelo pró-
+pio aplicativo. Lembre-se que ao cadastrar
+ou deletar plantas você modificará perma-
+nentemente esse arquivo, portanto MANTENHA
+SEMPRE UMA CÓPIA DE:
+
+"arvoresCadastradas.alf"
+
+
+

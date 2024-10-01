@@ -1,0 +1,9 @@
+Leia o arquivo leia-me antes de alterar os dados desse arquivo!
+
+nc: Aaaaaaaa aaaaaaaaaa
+nv: Aaaaaaaaaa
+f1: Testeogu
+f2: -
+f3: -
+f4: -
+
